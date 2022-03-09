@@ -8,6 +8,6 @@
 
 ### 2022
 
-  - 运动100个小时
-  - 小说30w字
-  - 点餐项目完成度50%
+  - [锻炼100个小时](https://github.com/joveth1/SmallTarget/blob/main/2022/exercise.md)
+  - [小说完成30w字](https://github.com/joveth1/SmallTarget/blob/main/2022/book.md)
+  - [点餐项目完成度50%](https://github.com/joveth1/SmallTarget/blob/main/2022/dc.md)
